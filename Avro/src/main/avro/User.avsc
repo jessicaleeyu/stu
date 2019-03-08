@@ -1,0 +1,11 @@
+{
+	"namespace":"avro.pojo",
+	"type":"record",
+	"name":"User",
+	"fields":
+	[
+		{"name":"username","type":"string"},
+		{"name":"age","type":"int"},
+		{"name":"gender","type":"string"}
+	] 
+}
